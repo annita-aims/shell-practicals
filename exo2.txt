@@ -1,0 +1,28 @@
+C'est l'option ls -a qui liste tous les fichiers .
+
+
+
+
+
+
+C'est les fichiers caches qu'on voit maintenant.
+
+
+
+
+
+L'option ls qui liste tous les fichiers dans les sous-repertoires est ls -R.
+
+
+
+
+
+
+C'est l'option wc qui compte les lignes , les mots et les caracteres dans un fichier.
+
+
+
+
+
+
+Puor afficher seulement le nombre de lignes dans un fichier on y ajoute -l.
